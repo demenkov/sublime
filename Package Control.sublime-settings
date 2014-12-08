@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"ApplySyntax",
+		"ASCII Decorator",
+		"DocBlockr",
+		"Emmet",
+		"EncodingHelper",
+		"Git",
+		"GitGutter",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"TrailingSpaces"
+	]
+}
